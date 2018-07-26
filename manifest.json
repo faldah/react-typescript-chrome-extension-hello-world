@@ -1,0 +1,11 @@
+{
+  "author": "Feras Aldahlawi",
+  "description": "react typescript chrome extension hello world app",
+  "manifest_version": 2,
+  "name": "react-typescript-chrome-extension-hello-world",
+  "version": "1.0",
+  "browser_action": {
+    "default_title": "ReactTypeScriptHelloWorldChromeExtension",
+    "default_popup": "build/index.html"
+  }
+}
